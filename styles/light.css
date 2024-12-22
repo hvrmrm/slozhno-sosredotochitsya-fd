@@ -5,6 +5,7 @@
   --title-text-color:#353430;
   --accent-heading-color:#353430;
   --accent-text-color:#353430;
+  --theme-menu-color:#353430;
   --header-text-color:#353430;
   --background-color: #FFF1F7;
   --heading-text-accent-color:var(--background-color);
@@ -28,6 +29,7 @@
     --title-text-color:#353430;
     --accent-heading-color:#353430;
     --accent-text-color:#353430;
+    --theme-menu-color:#353430;
     --header-text-color:#353430;
     --background-color: #FFF1F7;
     --heading-text-accent-color:var(--background-color);

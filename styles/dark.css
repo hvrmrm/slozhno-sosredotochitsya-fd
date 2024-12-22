@@ -5,13 +5,15 @@
 */
 
 .page.theme_dark {
-  --text-color: #F1B2CE;
+  --text-color: #FF0070;
+  --theme-menu-color:#353430;
   --accent-color: var(--heading-color);
   --heading-color:#FF0070;
   --title-text-color:#FF0070;
   --background-color: #000028;
   --heading-text-accent-color:var(--background-color);
   --header-text-color:var(--background-color);
+  --how-to-accent: #000028;
   --accent-heading-color: #DB00FF;
   --accent-text-color: #000028;
   --font-family: 'IBM Plex mono', monospace;
