@@ -1,7 +1,3 @@
-/*
-  Переменные для вашего проекта
-  и их переопределение под различные устройства
-*/
 :root {
   --text-color: #F1B2CE;
   --accent-color: var(--heading-color);
@@ -22,5 +18,3 @@
   --regular-line-height: 100%;
   --on: visible;
 }
-
-  

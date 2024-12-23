@@ -1,11 +1,5 @@
-/*
-  Специально для тёмной темы при наличии класса,
-  здесь окажутся стили, которые нужно переопределить принудительно,
-  переключая тему
-*/
-
 .page.theme_dark {
-  --text-color: #FF0070;
+  --text-color: #F1B2CE;
   --theme-menu-color:#353430;
   --accent-color: var(--heading-color);
   --heading-color:#FF0070;
