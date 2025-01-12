@@ -1,15 +1,5 @@
 :root {
-  --text-color: #F1B2CE;
-  --accent-color: var(--heading-color);
-  --heading-color:#FF0070;
-  --title-text-color:#FF0070;
-  --background-color: #000028;
-  --heading-text-accent-color:var(--background-color);
-  --how-to-accent: #000028;
-  --header-text-color:var(--background-color);
-  --accent-heading-color: #DB00FF;
-  --accent-text-color: #000028;
-  --font-family: 'IBM Plex mono', monospace;
+  --font-family: "IBM Plex mono", monospace;
   --regular-font-style: normal;
   --regular-font-weight: 400;
   --bold-font-weight: 700;
@@ -17,4 +7,12 @@
   --background-image: url("../images/cover-image-dark.png");
   --regular-line-height: 100%;
   --on: visible;
+  --background-color: #000028;
+  --text-color: #f1b2ce;
+  --title-accent: #ff0070;
+  --accent-text-color: #000028;
+  --title-text-color: #000028;
+  --heading-color: #db00ff;
+  --theme-menu-color: #ff0070;
+  --theme-menu-hover-color: rgba(255, 0, 112, 0.4);
 }

@@ -1,47 +1,28 @@
 .page.theme_light {
-  --text-color: #353430;
-  --accent-color: var(--heading-color);
-  --heading-color:#FF8DCB;
-  --title-text-color:#353430;
-  --accent-heading-color:#353430;
-  --accent-text-color:#353430;
-  --theme-menu-color:#353430;
-  --header-text-color:#353430;
-  --background-color: #FFF1F7;
-  --heading-text-accent-color:var(--background-color);
-  --accent-heading-color: #FFC2E6;
-  --how-to-accent:#353430;
-  --font-family: 'IBM Plex mono', monospace;
-  --regular-font-style: normal;
-  --regular-font-weight: 400;
-  --bold-font-weight: 700;
-  --regular-font-size: 18px;
   --background-image: url("../images/cover-image-light.png");
-  --regular-line-height: 100%;
-  --on:hidden;
+  --on: hidden;
+  --background-color: #ffc2e6;
+  --text-color: #353430;
+  --title-accent: #ff8dcb;
+  --accent-text-color: #353430;
+  --title-text:#353430;
+  --title-text-color: #353430;
+  --heading-color: #ffc2e6;
+  --theme-menu-color: #353430;
+  --theme-menu-hover-color: rgba(50, 49, 45, 0.4);
 }
 
-@media (prefers-color-scheme:light) {
+@media (prefers-color-scheme: light) {
   :root {
-    --text-color: #353430;
-    --accent-color: var(--heading-color);
-    --heading-color:#FF8DCB;
-    --title-text-color:#353430;
-    --accent-heading-color:#353430;
-    --accent-text-color:#353430;
-    --theme-menu-color:#353430;
-    --header-text-color:#353430;
-    --background-color: #FFF1F7;
-    --heading-text-accent-color:var(--background-color);
-    --accent-heading-color: #FFC2E6;
-    --how-to-accent:#353430;
-    --font-family: 'IBM Plex mono', monospace;
-    --regular-font-style: normal;
-    --regular-font-weight: 400;
-    --bold-font-weight: 700;
-    --regular-font-size: 18px;
     --background-image: url("../images/cover-image-light.png");
-    --regular-line-height: 100%;
-    --on:hidden;
+    --on: hidden;
+    --background-color: #ffc2e6;
+    --text-color: #353430;
+    --title-accent: #ff8dcb;
+    --accent-text-color: #353430;
+    --title-text:#353430;
+    --heading-color: #ffc2e6;
+    --theme-menu-color: #353430;
+    --theme-menu-hover-color: rgba(50, 49, 45, 0.4);
   }
 }
