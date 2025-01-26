@@ -1,19 +1,21 @@
 .page.theme_dark {
-  --font-family: 'IBM Plex mono', monospace;
+  --background-color: #000028;
+  --font-family: IBM Plex Mono, monospace;
+  --background-image: url(../images/cover-image-dark.png);
+  --accent-color: #ff0070;
+  --heading-color: #db00ff;
+  --background-accent-color: #ff0070;
+  --decoration-color: #ff0070;
+  --header-shadow-color: #ff0070;
+  --main-text-color: #ff0070;
+  --second-color: #000028;
+  --section-text-color: #f1b2ce;
+  --footer-color: #db00ff;
+  --footer-shadow-color: #ff0070;
+  --button-color: #ff0070;
   --regular-font-style: normal;
   --regular-font-weight: 400;
   --bold-font-weight: 700;
   --regular-font-size: 18px;
-  --background-image: url("../images/cover-image-dark.png");
   --regular-line-height: 100%;
-  --on: visible;
-  --background-color: #000028;
-  --text-color: #F1B2CE;
-  --title-accent: #FF0070;
-  --accent-text-color: #000028;
-  --title-text: #FF0070;
-  --title-text-color:#000028;
-  --heading-color: #DB00FF;
-  --theme-menu-color:#FF0070;
-  --theme-menu-hover-color: rgba(255, 0, 112, 0.40);
 }
