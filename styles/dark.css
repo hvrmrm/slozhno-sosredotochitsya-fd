@@ -1,6 +1,5 @@
 .page.theme_dark {
   --background-color: #000028;
-  --font-family: IBM Plex Mono, monospace;
   --background-image: url(../images/cover-image-dark.png);
   --accent-color: #ff0070;
   --heading-color: #db00ff;
@@ -13,11 +12,7 @@
   --footer-color: #db00ff;
   --footer-shadow-color: #ff0070;
   --button-color: #ff0070;
-  --regular-font-style: normal;
-  --regular-font-weight: 400;
-  --bold-font-weight: 700;
-  --regular-font-size: 18px;
-  --regular-line-height: 100%;
-  --theme-menu-hover-color: #ff0070;
+  --theme-menu-hover-color: rgb(255, 0, 112, 0.4);
   --theme-menu-color: #ff0070;
+  --off: visible;
 }
